@@ -1,109 +1,77 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Mukherjee</h1>
+<h1 align="center">Hi, I'm Abhijeet Mukherjee 👋</h1>
 
-<h3 align="center">
-AI & Software Engineering Student | B.Tech @ VIT Bhopal | B.S. @ IIT Jodhpur
-</h3>
+<h3 align="center">AI & Software Engineering Student | B.Tech at VIT Bhopal | B.S. at IIT Jodhpur</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijeetMukherjee-ML&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetMukherjee-ML&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning @ VIT Bhopal
+- 🎓 Pursuing a B.Tech in Artificial Intelligence and Machine Learning at VIT Bhopal
+- 🎓 Pursuing a B.S. in Applied AI and Data Science at IIT Jodhpur
+- 💻 Interested in software development, machine learning, and solving practical problems
+- 🌱 Currently strengthening my skills in software engineering, data structures and algorithms, and machine learning
 
-🎓 B.S. in Applied AI & Data Science @ IIT Jodhpur
+## Tech stack
 
-I'm passionate about building software and solving real-world problems through programming and AI.
-
-Currently focused on strengthening my fundamentals in software engineering, data structures & algorithms, and machine learning while building practical projects.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" alt="Python, C++, HTML, CSS, and JavaScript" />
 </p>
 
-### Tools
+**Tools and platforms**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres" alt="Git, GitHub, VS Code, and PostgreSQL" />
 </p>
 
----
+## Currently learning
 
-## 📚 Currently Learning
+- Data structures and algorithms
+- Python for software development
+- Machine learning fundamentals
+- SQL and databases
+- Software engineering principles
 
-- Data Structures & Algorithms
-- Python for Software Development
-- Machine Learning Fundamentals
-- SQL & Databases
-- Software Engineering Principles
+## Projects
 
----
+### Fake News Detection
+A machine-learning project that classifies news as fake or real using natural language processing techniques.
 
-## 🚀 Projects
+### Dynamic Live Wallpaper
+A desktop wallpaper featuring an animated day/night cycle and dynamic scenery.
 
-### 📰 Fake News Detection
-
-A machine learning project for classifying fake and real news using NLP techniques.
-
-### 🌅 Dynamic Live Wallpaper
-
-A desktop wallpaper featuring an animated day/night cycle with dynamic scenery.
-
-> More projects coming soon...
-
----
-
-## 📊 GitHub Stats
+## GitHub activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijeetMukherjee-ML&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetMukherjee-ML&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijeetMukherjee-ML&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetMukherjee-ML&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AbhijeetMukherjee-ML&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AbhijeetMukherjee-ML&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetMukherjee-ML&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetMukherjee-ML&theme=tokyo-night" alt="GitHub contribution graph" />
 </p>
 
----
-
-## 🎯 Goals for 2026
+## Goals for 2026
 
 - Build high-quality software projects
-- Strengthen DSA and problem-solving skills
+- Strengthen problem-solving and DSA skills
 - Learn software engineering best practices
 - Contribute to open source
 - Secure a software engineering internship
 
----
+## Connect
 
-## 📫 Connect
-
-GitHub: https://github.com/AbhijeetMukherjee-ML
+- GitHub: [@AbhijeetMukherjee-ML](https://github.com/AbhijeetMukherjee-ML)
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+<p align="center">⭐ Thanks for visiting my profile!</p>
