@@ -13,7 +13,7 @@
 - 🎓 Pursuing a B.Tech in Artificial Intelligence and Machine Learning at VIT Bhopal
 - 🎓 Pursuing a B.S. in Applied AI and Data Science at IIT Jodhpur
 - 💻 Interested in software development, machine learning, and solving practical problems
-- 🌱 Currently strengthening my skills in software engineering, data structures and algorithms, and machine learning
+- 🌱 Strengthening my skills in software engineering, data structures and algorithms, and machine learning
 
 ## Tech stack
 
@@ -37,7 +37,9 @@
 - SQL and databases
 - Software engineering principles
 
-## Projects
+## Project highlights
+
+These are brief project summaries; this profile repository contains the README only.
 
 ### Fake News Detection
 A machine-learning project that classifies news as fake or real using natural language processing techniques.
@@ -60,7 +62,7 @@ A desktop wallpaper featuring an animated day/night cycle and dynamic scenery.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetMukherjee-ML&theme=tokyo-night" alt="GitHub contribution graph" />
 </p>
 
-## Goals for 2026
+## Current goals
 
 - Build high-quality software projects
 - Strengthen problem-solving and DSA skills
