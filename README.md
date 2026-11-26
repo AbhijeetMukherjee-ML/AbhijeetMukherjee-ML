@@ -37,15 +37,21 @@
 - SQL and databases
 - Software engineering principles
 
-## Project highlights
+## Featured projects
 
-These are brief project summaries; this profile repository contains the README only.
+These are brief project summaries; the profile repository contains this README.
 
-### Fake News Detection
+### [Fake News Detection](https://github.com/AbhijeetMukherjee-ML/fake-news-detector)
 A machine-learning project that classifies news as fake or real using natural language processing techniques.
 
-### Dynamic Live Wallpaper
+### [Dynamic Live Wallpaper](https://github.com/AbhijeetMukherjee-ML/Wallpaper)
 A desktop wallpaper featuring an animated day/night cycle and dynamic scenery.
+
+### [BudgetWise CLI](https://github.com/AbhijeetMukherjee-ML/budgetwise-cli)
+A Java command-line personal budget manager for tracking transactions, setting category budgets, and reviewing spending summaries.
+
+### [PES Analysis Tool](https://github.com/AbhijeetMukherjee-ML/PES_ANALYZER)
+A Flask web app for visualizing potential energy surface scans and analyzing minima, transition states, and energy barriers.
 
 ## GitHub activity
 
